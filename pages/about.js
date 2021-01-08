@@ -1,3 +1,3 @@
 export default function AboutPage() {
-  return <div>About Your Name</div>
+  return <div>About Tonoyama</div>
 }
